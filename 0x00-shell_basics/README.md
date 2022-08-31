@@ -8,3 +8,4 @@ creating a directory in a directory at once
 moving a file from a diretor to a sub directory
 deleting file from a directory
 deletion of directory from a directory
+change directory to previous
