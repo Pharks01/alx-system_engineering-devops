@@ -9,3 +9,4 @@ moving a file from a diretor to a sub directory
 deleting file from a directory
 deletion of directory from a directory
 change directory to previous
+list all from various directories
