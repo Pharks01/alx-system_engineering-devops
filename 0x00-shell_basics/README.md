@@ -12,3 +12,4 @@ change directory to previous
 list all from various directories
 direct file creation in a directory
 creation of symbolic link
+copying all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
