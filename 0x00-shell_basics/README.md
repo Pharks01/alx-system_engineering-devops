@@ -11,3 +11,4 @@ deletion of directory from a directory
 change directory to previous
 list all from various directories
 direct file creation in a directory
+creation of symbolic link
