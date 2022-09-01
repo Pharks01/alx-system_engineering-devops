@@ -9,3 +9,4 @@ adding permission to all classes
 james bond
 john doe
 copying permission from one file to another
+permission for directory
