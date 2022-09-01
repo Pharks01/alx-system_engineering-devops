@@ -4,3 +4,4 @@ print all group current user belongs
 change file ownership
 creating hello file
 adding execute permission to user/file owner
+adding multi-permission to multiclass
