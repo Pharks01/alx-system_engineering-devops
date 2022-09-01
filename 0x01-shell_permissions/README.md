@@ -5,3 +5,4 @@ change file ownership
 creating hello file
 adding execute permission to user/file owner
 adding multi-permission to multiclass
+adding permission to all classes
