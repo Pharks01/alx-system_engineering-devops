@@ -8,3 +8,4 @@ adding multi-permission to multiclass
 adding permission to all classes
 james bond
 john doe
+copying permission from one file to another
