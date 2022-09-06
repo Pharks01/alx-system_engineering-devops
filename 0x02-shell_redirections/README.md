@@ -20,3 +20,4 @@ lettered lines
 find and replace
 mass removal of letter
 reversing inputs
+displays all users and their home directories, sorted by users.
