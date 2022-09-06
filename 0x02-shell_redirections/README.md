@@ -6,3 +6,4 @@ display last lines
 display first lines
 listing third line
 Special character file name
+overwrite/create
