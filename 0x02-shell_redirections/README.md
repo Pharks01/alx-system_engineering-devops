@@ -19,3 +19,4 @@ line that contain bin
 lettered lines
 find and replace
 mass removal of letter
+reversing inputs
