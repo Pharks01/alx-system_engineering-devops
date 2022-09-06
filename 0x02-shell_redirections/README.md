@@ -8,3 +8,4 @@ listing third line
 Special character file name
 overwrite/create
 Appending
+find and delete file
