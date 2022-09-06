@@ -18,3 +18,4 @@ display the pattern “root” and 3 lines after it
 line that contain bin
 lettered lines
 find and replace
+mass removal of letter
