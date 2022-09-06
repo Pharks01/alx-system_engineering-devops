@@ -7,3 +7,4 @@ display first lines
 listing third line
 Special character file name
 overwrite/create
+Appending
