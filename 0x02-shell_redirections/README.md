@@ -12,3 +12,4 @@ find and delete file
 couting subdirectories
 first 10 list of files
 sort uniquely
+pattern root from the file
