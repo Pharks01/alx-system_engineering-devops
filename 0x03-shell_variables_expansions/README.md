@@ -6,3 +6,4 @@ Printing environmetal variables
 listing env variables and functions
 creating a local variable
 Creating a global variable
+Printing values in additions to existing env variables
