@@ -8,3 +8,4 @@ creating a local variable
 Creating a global variable
 Printing values in additions to existing env variables
 dividing env variables
+printing exponent of love
