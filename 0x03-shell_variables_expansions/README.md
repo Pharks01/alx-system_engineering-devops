@@ -5,3 +5,4 @@ counting number of directories
 Printing environmetal variables
 listing env variables and functions
 creating a local variable
+Creating a global variable
