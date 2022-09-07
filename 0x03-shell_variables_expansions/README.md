@@ -10,3 +10,4 @@ Printing values in additions to existing env variables
 dividing env variables
 printing exponent of love
 conversion from base 2 to base 10
+printing combinations 
